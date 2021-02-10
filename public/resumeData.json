@@ -1,30 +1,30 @@
 {
   "main": {
     "name": "JASPREET WASAM",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
+    "occupation": "SENIOR PROGRAMMER ANALYST @ HCL TECHNOLOGIES LIMITED",
+    "description": "Full Stack Developer(NODE.JS AND REACT.JS)",
     "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "bio": "My name is Wasan, I'm a Full Stack ReactJS Developer. Currently I'm working at HCL TECHNOLOGIES LIMITED",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "email": "jpwasan1@gmail.com",
+    "phone": "9643425727",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "street": "BE-60 B, FOURTH FLOOR HARI NAGAR",
+      "city": "NEW DELHI",
+      "state": "DELHI",
+      "zip": "110064"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/profile.php?_rdr",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/jaspreet-wasan-237b06112/",
         "className": "fa fa-linkedin"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/jpwasan1",
         "className": "fa fa-github"
       }
     ]
@@ -43,33 +43,33 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
+        "school": "GURU HARKRISHAN PUBLIC SCHOOL",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
+        "graduated": "June 2018",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
+        "company": "NodeJs Programmer",
+        "title": "JavaScript Specialist",
+        "years": "June 2018 - Present",
         "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
       },
       {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
+        "company": "HCL TECHNOLOGIES LIMITED",
+        "title": "Developer",
+        "years": "June 2018 - Present",
         "description": "Helping businesses showing their best selves to clients."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
-        "name": "Python",
+        "name": "NodeJs",
         "level": "95%"
       },
       {
@@ -82,7 +82,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "70%"
       }
     ]
   },
